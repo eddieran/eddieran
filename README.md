@@ -1,55 +1,53 @@
-# Hey, I'm Eddie
+<div align="center">
+<img src="./header.svg" width="100%" alt="header">
+</div>
 
-**Staff Engineer, ex-TikTok. I build open-source AI agent infrastructure.**
+<br>
 
-I believe the barrier to building has dissolved. What matters now is the restlessness to keep tinkering — treating every new tool as a puzzle to solve before the day is over. I shipped 5+ independent projects in the past year, all built with AI as a force multiplier.
+### `>_` open source
 
----
+**[`skillpm`](https://github.com/eddieran/skillpm)**
+Universal package manager for AI agent skills. One CLI to install, sync, and secure skills across **10+ agent runtimes** — Claude Code, Codex, Gemini CLI, Copilot, Cursor, and more.
 
-### Flagship Projects
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![v3.0](https://img.shields.io/badge/v3.0-1a1a2e?style=flat-square) ![312 commits](https://img.shields.io/badge/312_commits-1a1a2e?style=flat-square) ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=000)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-#### [`skillpm`](https://github.com/eddieran/skillpm)
-The universal package manager for AI agent skills. One CLI to install, sync, and secure skill packages across **10+ agent runtimes** — Claude Code, Codex, Gemini CLI, Copilot, Cursor, and more.
+**[`lindy-orchestrator`](https://github.com/eddieran/lindy-orchestrator)**
+AI agent orchestration grounded in harness engineering — DAG scheduling, QA gates, worktree isolation, multi-provider dispatch, git-native coordination.
 
-`Go` · `v3.0` · `312 commits` · Homebrew distribution
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white) ![Multi--provider](https://img.shields.io/badge/multi--provider-1a1a2e?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-#### [`lindy-orchestrator`](https://github.com/eddieran/lindy-orchestrator)
-AI agent orchestration framework grounded in harness engineering. Decomposes goals into DAG-scheduled tasks, dispatches agents to isolated modules, validates output via pluggable QA gates.
+**[`symphony-claude`](https://github.com/eddieran/symphony-claude)**
+Turns project work into isolated, autonomous implementation runs. Teams manage work instead of supervising coding agents.
 
-`Python` · `PyPI` · Multi-provider · Git-native coordination
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### [`symphony-claude`](https://github.com/eddieran/symphony-claude)
-Turns project work into isolated, autonomous implementation runs — teams manage work instead of supervising coding agents. Worktree isolation, session persistence, and structured handoff between human planning and agent execution.
-
-`Elixir` · Autonomous runs · Session persistence
-
-</td>
-</tr>
-</table>
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) ![Autonomous](https://img.shields.io/badge/autonomous_runs-1a1a2e?style=flat-square) ![Sessions](https://img.shields.io/badge/session_persistence-1a1a2e?style=flat-square)
 
 ---
 
-### What I Work With
+<div align="center">
 
-```
-Languages        Go · Python · Java (JVM internals) · TypeScript · Rust
-AI & Agents      Claude Code · MCP · Agent SDK · Multi-agent orchestration · Prompt engineering
-Infrastructure   Kubernetes · Docker · AWS · GCP · Prometheus · Grafana · OpenTelemetry
-Backend & Data   Kafka · Flink · PostgreSQL · Redis · ElasticSearch
-```
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square&logo=rust&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</div>
 
 ---
 
-<sub>Be curious, be humble, be quick. This era is different.</sub>
+<div align="center">
+<sub>be curious, be humble, be quick &middot; this era is different</sub>
+</div>
