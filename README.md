@@ -52,10 +52,4 @@ Backend & Data   Kafka · Flink · PostgreSQL · Redis · ElasticSearch
 
 ---
 
-### Links
-
-**[LinkedIn](https://linkedin.com/in/ran-dang)**
-
----
-
 <sub>Be curious, be humble, be quick. This era is different.</sub>
