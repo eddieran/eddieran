@@ -29,6 +29,7 @@ Turns project work into isolated, autonomous implementation runs. Teams manage w
 
 <div align="center">
 
+`languages`<br>
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square&logo=rust&logoColor=000)
@@ -36,13 +37,21 @@ Turns project work into isolated, autonomous implementation runs. Teams manage w
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 
+`reliability & observability`<br>
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-7B5EA7?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+`data & messaging`<br>
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Flink](https://img.shields.io/badge/-Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </div>
 
