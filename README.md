@@ -4,6 +4,16 @@
 
 <br>
 
+### `>_` about
+
+10 years in production systems at scale. Designed SLO platforms serving 1,000+ microservices, built topology-aware anomaly detection and 5-minute automated RCA across billions in daily transaction volume. Led a company-wide JVM migration (800+ services, ZingJDK to OpenJDK 21 ZGC, GC pause from tens-of-ms to <1ms).
+
+Now I split my time between reliability architecture and building AI agent tooling. I believe the barrier to building has dissolved — what matters is the restlessness to keep tinkering, treating every new tool as a puzzle to solve before the day is over.
+
+Beyond open source, I also build in private: an AI-coordinated **quant trading system** (Rust engine, 4 autonomous AI departments, Sharpe 4.9, 12.8M data points), an **options portfolio manager** (FastAPI, strategy scanner, E2E tested), and a **physics-based golf simulator** (RK4 integration, USGA Stimpmeter calibrated, live on Vercel). All shipped with AI as a force multiplier.
+
+---
+
 ### `>_` open source
 
 **[`skillpm`](https://github.com/eddieran/skillpm)**
