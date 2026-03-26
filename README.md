@@ -28,18 +28,12 @@ AI agent orchestration framework grounded in harness engineering. Decomposes goa
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-#### [`agents`](https://github.com/eddieran/agents)
-A collection of production-ready subagents for Claude Code — specialized agents for code review, architecture analysis, testing, and more.
+#### [`symphony-claude`](https://github.com/eddieran/symphony-claude)
+Turns project work into isolated, autonomous implementation runs — teams manage work instead of supervising coding agents. Worktree isolation, session persistence, and structured handoff between human planning and agent execution.
 
-</td>
-<td width="50%" valign="top">
-
-#### [`moneywiz-ledger`](https://github.com/eddieran/moneywiz-ledger)
-Claude Code skill that converts natural-language expense entries into MoneyWiz deep links. Category inference, privacy-safe local config.
-
-`Python` · OpenClaw skill
+`Elixir` · Autonomous runs · Session persistence
 
 </td>
 </tr>
@@ -60,7 +54,7 @@ Backend & Data   Kafka · Flink · PostgreSQL · Redis · ElasticSearch
 
 ### Links
 
-**[Portfolio](https://portfolio.suree.org)** · **[LinkedIn](https://linkedin.com/in/ran-dang)** · **[Resume](https://portfolio.suree.org/eddie_resume_2026.pdf)**
+**[LinkedIn](https://linkedin.com/in/ran-dang)**
 
 ---
 
