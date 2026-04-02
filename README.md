@@ -35,6 +35,13 @@ Turns project work into isolated, autonomous implementation runs. Teams manage w
 
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) ![Autonomous](https://img.shields.io/badge/autonomous_runs-1a1a2e?style=flat-square) ![Sessions](https://img.shields.io/badge/session_persistence-1a1a2e?style=flat-square)
 
+### `>_` upstream contributions
+
+**[`microsoft/VibeVoice`](https://github.com/microsoft/VibeVoice)** · contributor
+Fixed a tensor shape mismatch in the streaming TTS inference engine that broke SDPA attention on MPS/CPU ([#303](https://github.com/microsoft/VibeVoice/pull/303)). Root-caused to a missing `query_length` in the KV cache mask contract for transformers 4.57.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=000) ![Merged](https://img.shields.io/badge/merged-6f42c1?style=flat-square)
+
 ---
 
 <div align="center">
